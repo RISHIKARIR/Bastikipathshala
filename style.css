@@ -264,10 +264,19 @@ height: 30rem;
 
 
 .sapling-section{
+    max-width:  90%;
    display: flex;
    flex-wrap:wrap;
-    margin-left: -17rem;
+  
 }
+
+#second img{
+    height: 50%;
+}
+
+
+
+
 
 
 .Donate{
@@ -300,20 +309,29 @@ height: 30rem;
 
 }
 
+@media screen and (max-width:900px){
+
+
+}
 
 .vision{
+    
+text-align: center;
+max-width:  90%;
 
-margin-left: -15rem;
+
 
 }
 
 
 
-
+#img2{
+    height: 25rem;
+}
 
 #img3{
+height: 70%;
 
-height: 25rem;
 
 }
 
@@ -356,10 +374,15 @@ height: 25rem;
     }
 
 
+
+
+
+
+
     form input,
     form textarea,
     form button {
-      width: 100%;
+      width: 90%;
       padding: 10px;
       margin: 10px 0;
       border: 1px solid #ccc;
@@ -400,7 +423,7 @@ height: 25rem;
 }
 
 .counter {
-  font-size: 48px;
+  font-size: 2rem;
   color: #00FF7F; /* Yellow color */
   font-weight: bold;
   display: block;
