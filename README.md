@@ -8,6 +8,10 @@ This project was developed with a strong focus on simplicity, accessibility, and
 
 ---
 
+
+live link : ngo-bkp.netlify.app
+
+
 ## 🌍 About the Organization
 
 Basti Ki Pathshala is a community-driven non-governmental organization (NGO) committed to providing free, quality education to children living in slums and economically weaker sections of society. With the belief that education is the most powerful tool for change, the organization runs open-schooling initiatives, weekend classes, creative workshops, and vocational training sessions.
@@ -35,6 +39,8 @@ This website was created to:
 - **About Us Section**: Clearly outlines the organization's mission and goals
 - **Accessible Design**: Focus on clean, readable fonts and contrast
 - **AOS (Animate on Scroll)**: Enhances user experience with smooth animations
+
+
 
 
 ## 🛠️ Tech Stack
